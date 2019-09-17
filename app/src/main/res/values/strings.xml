@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExemploListView</string>
+    <string name="nome_do_estado">nome do estado</string>
+    <string name="sigla">sigla</string>
+    <string name="salvar">salvar</string>
+    <string name="contagem">contagem</string>
+    <string name="estado">estado</string>
+    <string name="fechar">fechar</string>
+</resources>
